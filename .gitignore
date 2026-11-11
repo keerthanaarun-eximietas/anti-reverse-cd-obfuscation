@@ -229,3 +229,9 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# GitHub self-hosted runner
+actions-runner/
+.runner
+.credentials
+.credentials_rsaparams
